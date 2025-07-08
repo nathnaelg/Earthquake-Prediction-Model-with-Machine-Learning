@@ -99,5 +99,3 @@ This project is licensed under the **Apache 2.0 License** – see the [LICENSE](
 
 > Created by [nathnaelg](https://github.com/nathnaelg) | Powered by Python 🐍 & Machine Learning 🧠
 
-```
-
