@@ -1,5 +1,3 @@
----
-
 ## 📌 Project Overview
 
 **Earthquake-Prediction-Model-with-Machine-Learning** is a Python-based machine learning project that uses historical seismic data to build a predictive model capable of estimating the likelihood or severity of future earthquakes. The project showcases how ML techniques can be applied to geophysical data for potential early warning systems.
